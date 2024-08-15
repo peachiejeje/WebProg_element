@@ -1,0 +1,184 @@
+* {
+    color: #FFFFFF;
+    background-color: #1C0A00;
+    font-family: Poppins, sans-serif;
+}
+ body {
+     padding: 2rem 13rem 2rem 13rem;
+ }
+
+
+ .call-to-action {
+     display: flex;
+     gap: 10rem;
+     margin-bottom: 3rem;
+ }
+
+ .call-to-action .fun-fact-container {
+     display: flex;
+ }
+
+
+
+ .call-to-action .fun-fact-container .fun-fact h3{
+     font-size: 1.5rem;
+ }
+
+ .call-to-action .fun-fact-container .fun-fact .objects{
+     font-size: 1rem;
+     opacity: 50%;
+ }
+
+ hr {
+     opacity: 50%;
+ }
+
+ .call-to-action .contents .text {
+     font-weight: bold;
+     font-size: 1.5rem;
+ }
+
+ .call-to-action .contents .btn {
+     display: flex;
+
+ }
+
+ .call-to-action .contents .btn a{
+     text-decoration: none;
+     background-color: transparent;
+ }
+
+ .call-to-action .contents button {
+     font-weight: normal;
+     background-color: transparent;
+     color: #FFFFFF;
+     text-decoration: none;
+     border: none;
+     padding: 0.5rem 1.2rem;
+     margin-right: 12px;
+     display: flex;
+     border-radius: 10%;
+ }
+
+
+ .call-to-action .contents #join-the-family {
+     background-color: rgba(46, 31, 28, 0.42);
+
+ }
+
+ .call-to-action .contents #join-the-family:hover {
+     background-color: #CC9544;
+ }
+
+ .call-to-action .contents #browse-all-courses:hover{
+     background-color: #CC9544;
+ }
+
+ .call-to-action .contents #browse-all-courses {
+     background-color: rgba(46, 31, 28, 0.42);
+ }
+
+ .call-to-action .contents button:hover {
+     text-decoration: underline;
+ }
+
+
+
+ .fun-fact-container {
+     display: flex;
+     flex-direction: row;
+     gap: 200px;
+ }
+
+ .footer-container {
+     display: flex;
+ }
+
+ .explore {
+     display: flex;
+     gap: 3rem;
+ }
+
+ .explore .box {
+     text-decoration: none;
+ }
+
+ .explore ul {
+     list-style-type: none;
+ }
+
+ .explore .box .link-name {
+     font-weight: bold;
+     margin-bottom: 1rem;
+ }
+
+ .explore .box a {
+     text-decoration: none;
+     opacity: 50%;
+     line-height: 2rem;
+ }
+
+ .explore .box a:hover {
+     text-decoration: underline #FF6636 2px;
+     color: #FFFFFF;
+     opacity: 100%;
+ }
+
+ .footer-container .eduguard .frame-128 .logo p{
+     font-weight: bolder;
+     font-size: 1.8rem;
+ }
+
+ .footer-container .eduguard .frame-128 {
+     width: 40%;
+ }
+
+ .footer-container .eduguard .frame-128 .dsc p{
+     opacity: 50%;
+ }
+
+ .footer-container .eduguard .social-media .fab {
+     background-color: transparent;
+ }
+
+ .footer-container .eduguard .social-media a {
+     font-size: 1.3rem;
+     padding: 0;
+     margin: 0 0.5rem 0.5rem 0;
+     color: inherit;
+     background-color: rgba(53, 42, 42, 0.99);
+     display: inline-flex;
+     align-items: center;
+     justify-content: center;
+     width: 50px;
+     height: 50px;
+     text-decoration: none;
+     border-radius: 10%;
+ }
+
+
+ .footer-container .eduguard .social-media a:hover {
+     background-color: #CC9544;
+ }
+
+
+
+
+ .bottom-container .copyright {
+     background-color: #464E2E;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     text-align: center;
+ }
+
+
+
+
+
+
+
+
+
+
+
